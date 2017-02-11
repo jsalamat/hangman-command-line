@@ -1,0 +1,22 @@
+{
+  "name": "hangman-command-line",
+  "version": "1.0.0",
+  "description": "Hangman game will run entirely with Node.js using the inquirer package",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalamat/hangman-command-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalamat/hangman-command-line/issues"
+  },
+  "homepage": "https://github.com/jsalamat/hangman-command-line#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1"
+  }
+}
